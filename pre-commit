@@ -1,0 +1,6 @@
+#!/bin/bash
+
+echo "Regenerating *.md files"
+python yaml_to_md.py
+
+git add *.md
