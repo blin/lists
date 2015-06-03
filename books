@@ -1,0 +1,570 @@
+- author: Rowling, Joanne
+  release_year: 2007
+  score: 2
+  title: Harry Potter and the Deathly Hallows
+- author: Rowling, Joanne
+  release_year: 2005
+  score: 2
+  title: Harry Potter and the Half-Blood Prince
+- author: Doctrow, Cory
+  release_year: 2003
+  score: 2
+  title: Down and Out in the Magic Kingdom
+- author: Rowling, Joanne
+  release_year: 2003
+  score: 2
+  title: Harry Potter and the Order of the Phoenix
+- author: Вербицкий, Михаил
+  release_year: 2002
+  score: 3
+  title: Антикопирайт
+- author: Rowling, Joanne
+  release_year: 2000
+  score: 2
+  title: Harry Potter and the Goblet of Fire
+- author: Rowling, Joanne
+  release_year: 1999
+  score: 2
+  title: Harry Potter and the Prisoner of Azkaban
+- author: Rowling, Joanne
+  release_year: 1998
+  score: 2
+  title: Harry Potter and the Chamber of Secrets
+- author: Palahniuk, Charles Michael
+  release_year: 1997
+  score: 2
+  title: Fight Club
+- author: Rowling, Joanne
+  release_year: 1997
+  score: 2
+  title: Harry Potter and the Philosopher's Stone
+- author: Лукьяненко, Сергей Васильевич
+  release_year: 1997
+  score: 1
+  title: Лабиринт отражений
+- author: Лукьяненко, Сергей Васильевич
+  release_year: 1992
+  score: 1
+  title: Рыцари Сорока Островов
+- author: Adams, Douglas Noël
+  release_year: 1982
+  score: 3
+  title: The Restaurant at the End of the Universe
+- author: Harris, Thomas
+  release_year: 1981
+  score: 1
+  title: Red Dragon
+- author: Adams, Douglas Noël
+  release_year: 1980
+  score: 3
+  title: The Hitchhiker's Guide to the Galaxy
+- author: Tolkien, John Ronald Reuel
+  release_year: 1977
+  score: 2
+  title: The Silmarillion
+- author: Стругацкие, Аркадий и Борис
+  release_year: 1975
+  score: 2
+  title: Град обреченный
+- author: Стругацкие, Аркадий и Борис
+  release_year: 1972
+  score: 2
+  title: Пикник на обочине
+- author: Bach, Richard David
+  release_year: 1970
+  score: 3
+  title: Jonathan Livingston Seagull
+- author: Márquez, Gabriel José de la Concordia García
+  english_title: A Very Old Man with Enormous Wings
+  release_year: 1968
+  score: 2
+  title: Un señor muy viejo con unas alas enormes
+- author: Zelazny, Roger Joseph
+  release_year: 1966
+  score: 3
+  title: For a Breath I Tarry
+- author: Lem, Stanisław
+  release_year: 1961
+  score: 3
+  title: Solaris
+- author: Lem, Stanisław
+  release_year: 1959
+  score: 3
+  title: Eden
+- author: Bloch, Robert Albert
+  release_year: 1958
+  score: 2
+  title: That Hell-Bound Train
+- author: Tolkien, John Ronald Reuel
+  release_year: 1955
+  score: 3
+  title: The Return of the King
+- author: Tolkien, John Ronald Reuel
+  release_year: 1954
+  score: 3
+  title: The Fellowship of the Ring
+- author: Tolkien, John Ronald Reuel
+  release_year: 1954
+  score: 3
+  title: The Two Towers
+- author: Orwell, George
+  release_year: 1949
+  score: 3
+  title: Nineteen Eighty-Four
+- author: Sartre, Jean-Paul Charles Aymard
+  english_title: The Wall
+  release_year: 1939
+  score: 2
+  title: Le mur
+- author: Tolkien, John Ronald Reuel
+  release_year: 1937
+  score: 2
+  title: The Hobbit, or There and Back Again
+- author: Беля́ев, Алекса́ндр Рома́нович
+  english_title: Professor Dowell's head
+  release_year: 1925
+  score: 2
+  title: Голова профессора Доуэля
+- author: Замя́тин, Евге́ний Ива́нович
+  english_title: We
+  release_year: 1920
+  score: 3
+  title: Мы
+- author: Андре́ев, Леони́д Никола́евич
+  release_year: 1907
+  score: 3
+  title: Иуда Искариот
+- author: Dumas , Alexandre père
+  english_title: The Count of Monte Cristo
+  release_year: 1844
+  score: 3
+  title: ' Le Comte de Monte-Cristo'
+- author: Poe, Edgar Allan
+  release_year: 1843
+  score: 2
+  title: The Tell-Tale Heart
+- author: Го́голь, Никола́й Васи́льевич
+  english_title: The Overcoat
+  release_year: 1842
+  score: 3
+  title: Шинель
+- author: Грибоедов, Александр
+  release_year: 1825
+  score: 2
+  title: Горе от ума
+- author: Defoe, Daniel
+  release_year: 1719
+  score: 2
+  title: Robinson Crusoe
+- author: Cervantes, Miguel de Saavedra
+  english_title: The Ingenious Hidalgo Don Quixote of La Mancha
+  release_year: 1605
+  score: 3
+  title: El ingenioso hidalgo don Quijote de la Mancha
+- author: Saberhagen, Fred Thomas
+  release_year: ''
+  score: 2
+  title: Berserker series
+- author: Горчев, Дмитрий Анатольевич
+  release_year: ''
+  score: 3
+  title: ''
+- author: Abbot Edwin
+  release_year: 1884
+  score: 2
+  title: 'Flatland: A Romance of Many Dimensions'
+- author: Sir Arthur Conan Doyle
+  release_year: 1888
+  score: 2
+  title: A Study in Scarlet
+- author: Sir Arthur Conan Doyle
+  release_year: 1890
+  score: 2
+  title: The Sign of the Four
+- author: Sir Arthur Conan Doyle
+  release_year: 1892
+  score: 2
+  title: The Adventures of Sherlock Holmes
+- author: Lovecraft, Howard Phillips
+  release_year: 1928
+  score: 2
+  title: The Call of Cthulhu
+- author: Lovecraft, Howard Phillips
+  release_year: 1936
+  score: 2
+  title: The Shadow Over Innsmouth
+- author: Lovecraft, Howard Phillips
+  release_year: 1936
+  score: 2
+  title: The Shadow Out of Time
+- author: Lovecraft, Howard Phillips
+  release_year: 1936
+  score: 2
+  title: At the Mountains of Madness
+- author: Гоголь, Николай Васильевич
+  release_year: 1835
+  score: 2
+  title: Тарас Бульба
+- author: Hesse, Hermann
+  english_title: Steppenwolf
+  release_year: 1927
+  score: 2
+  title: Der Steppenwolf
+- author: Стругацкие, Аркадий и Борис
+  release_year: 1965
+  score: 3
+  title: Хищные вещи века
+- author: Стругацкие, Аркадий и Борис
+  release_year: 1986
+  score: 2
+  title: Хромая судьба
+- author: Ильф и Петров
+  release_year: 1928
+  score: 3
+  title: Двенадцать стульев
+- author: Ильф и Петров
+  release_year: 1931
+  score: 3
+  title: Золотой телёнок
+- author: Homer
+  english_title: Odyssey
+  release_year: -800
+  score: 3
+  title: Ὀδύσσεια
+- author: Gabriel José de la Concordia García Márquez
+  english_title: One Hundred Years of Solitude
+  release_year: 1967
+  score: 3
+  title: Cien años de soledad
+- author: Clifford Donald Simak
+  release_year: 1952
+  score: 3
+  title: City
+- author: Clifford Donald Simak
+  release_year: 1962
+  score: 2
+  title: They Walked Like Men
+- author: Abraham Maslow
+  release_year: 1970
+  score: 1
+  title: Motivation and Personality
+- author: Стругацкие, Аркадий и Борис
+  release_year: 1961
+  score: 1
+  title: Полдень, XXII век
+- author: Joseph Heller
+  release_year: 1961
+  score: 2
+  title: Catch-22
+- author: Kurt Vonnegut
+  release_year: 1963
+  score: 2
+  title: Cat's Cradle
+- author: Стругацкие, Аркадий и Борис
+  release_year: 1965
+  score: 2
+  title: Понедельник начинается в субботу
+- author: Isaac Asimov
+  release_year: 1941
+  score: 3
+  title: Liar!
+- author: Roger Zelazny
+  release_year: 1967
+  score: 2
+  title: Lord of Light
+- author: Isaac Asimov
+  release_year: 1980
+  score: 2
+  title: The Last Answer
+- author: Isaac Asimov
+  release_year: 1956
+  score: 1
+  title: The Last Question
+- author: Isaac Asimov
+  release_year: 1982
+  score: 1
+  title: Lest We Remember
+- author: Isaac Asimov
+  release_year: 1951
+  score: 1
+  title: Satisfaction Guaranteed
+- author: Isaac Asimov
+  release_year: 1976
+  score: 3
+  title: The Bicentennial Man
+- author: Фёдор Достоевский
+  release_year: 1869
+  score: 2
+  title: Идиот
+- author: Isaac Asimov
+  release_year: 1970
+  score: 1
+  title: 2430 A.D. - Too Late For the Space Ark
+- author: Isaac Asimov
+  release_year: 1956
+  score: 2
+  title: Jokester
+- author: Max-Neef, Artur Manfred
+  release_year: 1991
+  score: 1
+  title: Human Scale Development
+- author: Bertrand Russell
+  release_year: 1932
+  score: 2
+  title: In Praise of Idleness
+- author: Василий Шукшин
+  release_year: 1973
+  score: 2
+  title: Срезал
+- author: Palahniuk, Charles Michael
+  release_year: 2005
+  score: 1
+  title: Haunted
+- author: Василий Шукшин
+  release_year: 1968
+  score: 3
+  title: Охота жить
+- author: Geo Stone
+  release_year: 1999
+  score: 3
+  title: 'Suicide and Attempted Suicide: Methods and Consequences'
+- author: Isaac Asimov
+  release_year: 1972
+  score: 3
+  title: The Gods Themselves
+- author: Laozi
+  release_year: '-600'
+  score: 3
+  title: Tao Te Ching
+- author: Richard Feynman
+  release_year: 1985
+  score: 2
+  title: Surely You're Joking, Mr. Feynman!
+- author: Булгаков, Михаил Афанасьевич
+  release_year: 1925
+  score: 2
+  title: Собачье сердце
+- author: Harrison, Harry
+  release_year: 1987
+  score: 1
+  title: The Stainless Steel Rat Gets Drafted
+- author: Harrison, Harry
+  release_year: 1985
+  score: 1
+  title: A Stainless Steel Rat is Born
+- author: Zelazny, Roger Joseph
+  release_year: 1978
+  score: 2
+  title: The Courts of Chaos
+- author: Zelazny, Roger Joseph
+  release_year: 1976
+  score: 2
+  title: The Hand of Oberon
+- author: Zelazny, Roger Joseph
+  release_year: 1975
+  score: 2
+  title: Sign of the Unicorn
+- author: Zelazny, Roger Joseph
+  release_year: 1972
+  score: 2
+  title: The Guns of Avalon
+- author: Zelazny, Roger Joseph
+  release_year: 1970
+  score: 2
+  title: Nine Princes in Amber
+- author: Robert Heinlein
+  release_year: 1961
+  score: 3
+  title: Stranger in a Strange Land
+- author: Владимир Сорокин
+  release_year: 2004
+  score: 2
+  title: Путь Бро
+- author: Michael Feathers
+  release_year: 2004
+  score: 3
+  title: Working Effectively with Legacy Code
+- author: Isaac Asimov
+  release_year: 1992
+  score: 3
+  title: Isaac Asimov's Guide to Earth and space
+- author: Thomas Kuhn
+  release_year: 1996
+  score: 2
+  title: The Structure of Scientific Revolutions
+- author: Richard Dawkins
+  release_year: 2006
+  score: 2
+  title: The God Delusion
+- author: Malcolm Gladwell
+  release_year: 2008
+  score: 3
+  title: 'Outliers: The Story of Success'
+- author: Roger Zelazny
+  release_year: 1969
+  score: 1
+  title: Isle of the Dead
+- author: Jason Fried and David Heinemeier Hansson
+  release_year: 2010
+  score: 2
+  title: 'ReWork: Change the Way You Work Forever'
+- author: Gerald Weinberg
+  release_year: 1971
+  score: 1
+  title: The Psychology of Computer Programming
+- author: Brené Brown
+  release_year: 2010
+  score: 2
+  title: 'The Gifts of Imperfection: Letting Go of Who We Think We Should Be and Embracing Who We Are'
+- author: Ray Bradbury
+  release_year: 1953
+  score: 3
+  title: Fahrenheit 451
+- author: Paul Graham
+  release_year: 2004
+  score: 2
+  title: Hackers & Painters
+- author: Stephen King
+  release_year: 2000
+  score: 1
+  title: On writing
+- author: Stephen King
+  release_year: 1987
+  score: 1
+  title: Misery
+- author: Ian Robinson, Jim Webber, Savas Parastatidis
+  release_year: 2010
+  score: 2
+  title: REST in Practice
+- author: Matt Ridley
+  release_year: 1994
+  score: 3
+  title: 'The Red Queen: Sex and the Evolution of Human Nature'
+- author: Susan Cain
+  release_year: 2012
+  score: 2
+  title: 'Quiet: The power of introverts in a world that can't stop talking'
+- author: Frank Herbert
+  release_year: 1965
+  score: 3
+  title: Dune
+- author: Arthur Clarke
+  release_year: 1953
+  score: 1
+  title: Childhood's End
+- author: Chad Fowler
+  release_year: 2009
+  score: 2
+  title: "The Passionate Programmer: Creating a Remarkable Career in Software Development"
+- author: Samuel_Beckett
+  release_year: 1952
+  score: 2
+  title: Waiting for Godot
+- author: Виктор Дольник
+  release_year: 1994
+  score: 3
+  title: Непослушное дитя биосферы
+- author: Richard Dawkins
+  release_year: 1976
+  score: 3
+  title: The Selfish Gene
+- author: Murray Rothbard
+  release_year: 1973
+  score: 3
+  title: "For a New Liberty: The Libertarian Manifesto"
+- author: Carl Sagan
+  release_year: 1995
+  score: 3
+  title: "Demon-Haunted World: Science as a Candle in the Dark"
+- author: Walter Block
+  release_year: 1976
+  score: 3
+  title: Defending the Undefendable
+- author: Arika Okrent
+  release_year: 2009
+  score: 1
+  title: In the Land of Invented Languages
+- author: Jason Fried and David Heinemeier Hansson
+  release_year: 2013
+  score: 2
+  title: "Remote: Office Not Required"
+- author: Eric Redmond and Jim R. Wilson
+  release_year: 2012
+  score: 1
+  title: Seven Databases in Seven Weeks
+- author: David Beazley, Brian K. Jones
+  release_year: 2013
+  score: 2
+  title: Python cookbook
+- author: Bernard Beckett
+  release_year: 2009
+  score: 2
+  title: Genesis
+- author: Niall Ferguson
+  release_year: 2008
+  score: 2
+  title: "The Ascent of Money: A Financial History of the World"
+- author: Robert Glass
+  release_year: 2002
+  score: 3
+  title: Facts and Fallacies of Software Engineering
+- author: Robert Pirsig
+  release_year: 1974
+  score: 3
+  title: Zen and the Art of Motorcycle Maintenance
+- author: Jeff Speck
+  release_year: 2012
+  score: 2
+  title: Walkable City
+- author: Friedrich Hayek
+  release_year: 1978
+  score: 1
+  title: Denationalization of Money
+- author: Ernest Hemingway
+  release_year: 1926
+  score: 1
+  title: The Sun Also Rises
+- author: Richard Stevens
+  release_year: 2013
+  score: 2
+  title: Advanced Programming in the UNIX Environment
+- author: Brendan Gregg
+  release_year: 2013
+  score: 2
+  title: "Systems Performance: Enterprise and the Cloud"
+- author: Robert Cialdini
+  release_year: 1984
+  score: 3
+  title: "Influence: The Psychology of Persuasion"
+- author: Stanislas Dehaene
+  release_year: 2011
+  score: 2
+  title: "The Number Sense: How the Mind Creates Mathematics"
+- author: Steven Strogatz 
+  release_year: 2012
+  score: 2
+  title: "The Joy of X: A Guided Tour of Mathematics, from One to Infinity"
+- author: Orson Scott Card
+  release_year: 1985
+  score: 1
+  title: Ender's Game
+- author: Steven Pinker
+  release_year: 2011
+  score: 3
+  title: "The Better Angels of Our Nature: Why Violence Has Declined"
+- author: Nathaniel Branden
+  release_year: 1994
+  score: 2
+  title: The Six Pillars of Self-Esteem
+- author: Philip Dick
+  release_year: 1968
+  score: 1
+  title: Do Androids Dream of Electric Sheep?
+- author: Steven Pinker
+  release_year: 1994
+  score: 2
+  title: "The Language Instinct: How The Mind Creates Language"
+- author: Neil Gaiman
+  release_year: 2002
+  score: 2
+  title: Coraline
