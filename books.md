@@ -418,3 +418,6 @@
 * Coraline
   * author: Neil Gaiman
   * score: 2
+* Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman
+  * author: Dave Hoover, Adewale Oshineye
+  * score: 3
