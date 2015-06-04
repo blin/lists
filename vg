@@ -1,382 +1,255 @@
-- release_year: 2011
-  score: 3
+- score: 3
   title: Minecraft
-- release_year: 2011
-  score: 2
+- score: 2
   title: Magicka
-- release_year: 2011
-  score: 3
+- score: 3
   title: Portal 2
-- release_year: 2010
-  score: 2
+- score: 2
   title: Super meat boy
-- release_year: 2009
-  score: 3
+- score: 3
   title: Machinarium
-- release_year: 2009
-  score: 3
+- score: 3
   title: Plants vs. Zombies
-- release_year: 2009
-  score: 3
+- score: 3
   title: Jables's Adventure
-- release_year: 2009
-  score: 2
+- score: 2
   title: Assassin's Creed 2
-- release_year: 2009
-  score: 2
+- score: 2
   title: 'Dragon Age: Origins'
-- release_year: 2009
-  score: 2
+- score: 2
   title: 'Batman: Arkham Asylum'
-- release_year: 2009
-  score: 2
+- score: 2
   title: Trine
-- release_year: 2009
-  score: 1
+- score: 1
   title: 'Red Faction: Guerrilla'
-- release_year: 2009
-  score: 1
+- score: 1
   title: Overlord II
-- release_year: 2008
-  score: 3
+- score: 3
   title: Braid
-- release_year: 2008
-  score: 3
+- score: 3
   title: World of Goo
-- release_year: 2008
-  score: 2
+- score: 2
   title: Fallout 3
-- release_year: 2008
-  score: 2
+- score: 2
   title: Spore
-- release_year: 2008
-  score: 1
+- score: 1
   title: Grand Theft Auto IV
-- release_year: 2007
-  score: 3
+- score: 3
   title: Portal
-- release_year: 2007
-  score: 2
+- score: 2
   title: 'Command & Conquer 3: Tiberium Wars'
 - english_title: The Witcher
-  release_year: 2007
   score: 2
   title: Wiedźmin
-- release_year: 2007
-  score: 1
+- score: 1
   title: SimCity Societies
-- release_year: 2007
-  score: 1
+- score: 1
   title: Overlord
-- release_year: 2006
-  score: 3
+- score: 3
   title: DEFCON
-- release_year: 2006
-  score: 3
+- score: 3
   title: 'Hitman: Blood Money'
-- release_year: 2006
-  score: 2
+- score: 2
   title: Viva Piñata
-- release_year: 2005
-  score: 3
+- score: 3
   title: Darwinia
-- release_year: 2005
-  score: 3
+- score: 3
   title: Psychonauts
-- release_year: 2005
-  score: 3
+- score: 3
   title: The Movies
-- release_year: 2005
-  score: 3
+- score: 3
   title: SWAT 4
-- release_year: 2005
-  score: 2
+- score: 2
   title: Fahrenheit
-- release_year: 2005
-  score: 1
+- score: 1
   title: 'Fable: The Lost Chapters'
-- release_year: 2005
-  score: 1
+- score: 1
   title: 'The Matrix: Path of Neo'
-- release_year: 2004
-  score: 3
+- score: 3
   title: BreakQuest
-- release_year: 2004
-  score: 3
+- score: 3
   title: Gish
-- release_year: 2004
-  score: 3
+- score: 3
   title: Half-Life 2
-- release_year: 2004
-  score: 3
+- score: 3
   title: Jets'n'Guns
-- release_year: 2004
-  score: 3
+- score: 3
   title: Sid Meier's Pirates!
-- release_year: 2004
-  score: 3
+- score: 3
   title: Tekken 5
-- release_year: 2004
-  score: 3
+- score: 3
   title: World of Warcraft
-- release_year: 2004
-  score: 2
+- score: 2
   title: '"Warhammer 40,000: Dawn of War"'
-- release_year: 2003
-  score: 3
+- score: 3
   title: Beyond Good & Evil
-- release_year: 2003
-  score: 3
+- score: 3
   title: 'Star Wars Jedi Knight: Jedi Academy'
-- release_year: 2003
-  score: 3
+- score: 3
   title: 'Star Wars: Knights of the Old Republic'
-- release_year: 2003
-  score: 3
+- score: 3
   title: Tron 2.0
-- release_year: 2003
-  score: 3
+- score: 3
   title: 'Warcraft III: The Frozen Throne'
-- release_year: 2003
-  score: 2
+- score: 2
   title: Homeworld 2
-- release_year: 2003
-  score: 1
+- score: 1
   title: Freedom Fighters
-- release_year: 2003
-  score: 1
+- score: 1
   title: I-Ninja
-- release_year: 2002
-  score: 3
+- score: 3
   title: Ancient Domains of Mystery
-- release_year: 2002
-  score: 3
+- score: 3
   title: 'Black & White: Creature Isle'
-- release_year: 2002
-  score: 3
+- score: 3
   title: 'Mafia: The City of Lost Heaven'
-- release_year: 2002
-  score: 3
+- score: 3
   title: 'Serious Sam: The Second Encounter'
-- release_year: 2002
-  score: 3
+- score: 3
   title: 'The Elder Scrolls III: Morrowind'
-- release_year: 2002
-  score: 3
+- score: 3
   title: 'Warcraft III: Reign of Chaos'
-- release_year: 2002
-  score: 3
+- score: 3
   title: 'Bandits: Phoenix Rising'
-- release_year: 2002
-  score: 2
+- score: 2
   title: Enclave
-- release_year: 2002
-  score: 2
+- score: 2
   title: Heroes of Might and Magic IV
-- release_year: 2002
-  score: 2
+- score: 2
   title: Project Nomads
-- release_year: 2001
-  score: 3
+- score: 3
   title: Aliens versus Predator 2
-- release_year: 2001
-  score: 3
+- score: 3
   title: 'Arcanum: Of Steamworks and Magick Obscura'
-- release_year: 2001
-  score: 3
+- score: 3
   title: Black & White
-- release_year: 2001
-  score: 3
+- score: 3
   title: 'Command & Conquer: Yuri''s Revenge'
-- release_year: 2001
-  score: 3
+- score: 3
   title: 'Commandos 2: Men of Courage'
-- release_year: 2001
-  score: 3
+- score: 3
   title: 'Diablo II: Lord of Destruction'
-- release_year: 2001
-  score: 3
+- score: 3
   title: Max Payne
-- release_year: 2001
-  score: 3
+- score: 3
   title: Return to Castle Wolfenstein
-- release_year: 2001
-  score: 3
+- score: 3
   title: 'Serious Sam: The First Encounter'
-- release_year: 2001
-  score: 3
+- score: 3
   title: Uplink
-- release_year: 2001
-  score: 2
+- score: 2
   title: Grand Theft Auto III
-- release_year: 2001
-  score: 2
+- score: 2
   title: 'Sacrifice '
-- release_year: 2001
-  score: 2
+- score: 2
   title: Red Faction
-- release_year: 2001
-  score: 2
+- score: 2
   title: Stronghold
-- release_year: 2000
-  score: 3
+- score: 3
   title: American McGee's Alice
-- release_year: 2000
-  score: 3
+- score: 3
   title: 'Command & Conquer: Red Alert 2'
-- release_year: 2000
-  score: 3
+- score: 3
   title: Deus Ex
-- release_year: 2000
-  score: 3
+- score: 3
   title: Diablo II
-- release_year: 2000
-  score: 3
+- score: 3
   title: 'Hitman: Codename 47'
-- release_year: 2000
-  score: 3
+- score: 3
   title: 'Majesty: The Fantasy Kingdom Sim'
-- release_year: 2000
-  score: 2
+- score: 2
   title: 'Vampire: The Masquerade – Redemption'
-- release_year: 1999
-  score: 3
+- score: 3
   title: 'Age of Empires II: The Age of Kings'
-- release_year: 1999
-  score: 3
+- score: 3
   title: Grand Theft Auto 2
-- release_year: 1999
-  score: 3
+- score: 3
   title: Heroes of Might and Magic III
-- release_year: 1999
-  score: 3
+- score: 3
   title: 'Planescape: Torment'
-- release_year: 1999
-  score: 3
+- score: 3
   title: Quake III Arena
-- release_year: 1999
-  score: 3
+- score: 3
   title: Worms Armageddon
-- release_year: 1999
-  score: 2
+- score: 2
   title: Homeworld
-- release_year: 1998
-  score: 3
+- score: 3
   title: Fallout 2
-- release_year: 1998
-  score: 3
+- score: 3
   title: Half-Life
-- release_year: 1998
-  score: 3
+- score: 3
   title: StarCraft
-- release_year: 1998
-  score: 3
+- score: 3
   title: 'StarCraft: Brood War'
-- release_year: 1998
-  score: 2
+- score: 2
   title: DX-Ball 2
-- release_year: 1997
-  score: 3
+- score: 3
   title: Age of Empires
-- release_year: 1997
-  score: 3
+- score: 3
   title: Diablo
-- release_year: 1997
-  score: 3
+- score: 3
   title: Fallout
-- release_year: 1997
-  score: 3
+- score: 3
   title: Grand Theft Auto
-- release_year: 1997
-  score: 3
+- score: 3
   title: Quake II
-- release_year: 1997
-  score: 3
+- score: 3
   title: Tekken 3
-- release_year: 1996
-  score: 3
+- score: 3
   title: Quake
-- release_year: 1996
-  score: 3
+- score: 3
   title: The Neverhood
-- release_year: 1996
-  score: 3
+- score: 3
   title: Duke Nukem 3D
-- release_year: 1995
-  score: 3
+- score: 3
   title: Full throttle
-- release_year: 1995
-  score: 3
+- score: 3
   title: Mortal Kombat 3
-- release_year: 1995
-  score: 3
+- score: 3
   title: Tekken 2
-- release_year: 1994
-  score: 3
+- score: 3
   title: 'Doom II: Hell on Earth'
-- release_year: 1994
-  score: 3
+- score: 3
   title: Earthworm Jim
-- release_year: 1985
-  score: 3
+- score: 3
   title: Battle City
-- release_year: 1984
-  score: 3
+- score: 3
   title: Тетрис
-- release_year: 1980
-  score: 3
+- score: 3
   title: Pac-Man
-- release_year: 1978
-  score: 3
+- score: 3
   title: Space Invaders
-- release_year: 2015
-  score: 3
+- score: 3
   title: Dwarf fortress
-- release_year: 2011
-  score: 2
+- score: 2
   title: Bastion
-- release_year: 2011
-  score: 2
+- score: 2
   title: 'Deus Ex: Human Revolution'
-- release_year: 2011
-  score: 1
+- score: 1
   title: Fable 3
-- release_year: 2011
-  score: 1
+- score: 1
   title: LIMBO
-- release_year: 2011
-  score: 2
+- score: 2
   title: 'Warhammer 40,000: Space Marine'
-- release_year: '2012'
-  score: '2'
+- score: '2'
   title: 'Superbrothers: Sword & Sworcery EP'
-- release_year: '2012'
-  score: '2'
+- score: '2'
   title: Diablo 3
-- release_year: '2003'
-  score: '2'
+- score: '2'
   title: Max payne 2
-- release_year: '2012'
-  score: '1'
+- score: '1'
   title: Max payne 3
-- release_year: '2006'
-  score: '2'
+- score: '2'
   title: 'The Elder Scrolls IV: Oblivion'
-- release_year: 2012
-  score: 3
+- score: 3
   title: Dear Esther
-- release_year: 2009
-  score: 2
+- score: 2
   title: Borderlands
-- release_year: 2012
-  score: 2
+- score: 2
   title: Borderlands 2
-- release_year: 2014
-  score: 2
+- score: 2
   title: "Broken age: Act 1"
-- release_year: 2014
-  score: 3
+- score: 3
   title: "South Park: The Stick of Truth"
-- release_year: 2014
-  score: 3
+- score: 3
   title: Transistor

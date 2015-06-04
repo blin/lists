@@ -1,877 +1,591 @@
-- release_year: 2010
-  score: 3
+- score: 3
   title: Scott Pilgrim vs. the World
-- release_year: 2009
-  score: 3
+- score: 3
   title: Inglourious Basterds
-- release_year: 2009
-  score: 3
+- score: 3
   title: Red Cliff
-- release_year: 2009
-  score: 3
+- score: 3
   title: Watchmen
-- release_year: 2009
-  score: 3
+- score: 3
   title: The Trotsky
-- release_year: 2009
-  score: 3
+- score: 3
   title: (500) Days of Summer
-- release_year: 2009
-  score: 3
+- score: 3
   title: The Secret of Kells
-- release_year: 2008
-  score: 3
+- score: 3
   title: Dr. Horrible's Sing-Along Blog
-- release_year: 2008
-  score: 3
+- score: 3
   title: Repo! The Genetic Opera
-- release_year: 2008
-  score: 3
+- score: 3
   title: 'The Gamers: Dorkness Rising'
 - english_title: The Good, the Bad, the Weird
-  release_year: 2008
   score: 3
   title: 좋은 놈, 나쁜 놈, 이상한 놈
-- release_year: 2008
-  score: 3
+- score: 3
   title: Gran Torino
-- release_year: 2008
-  score: 3
+- score: 3
   title: Transsiberian
-- release_year: 2007
-  score: 3
+- score: 3
   title: Into the wild
-- release_year: 2007
-  score: 3
+- score: 3
   title: Planet Terror
-- release_year: 2007
-  score: 3
+- score: 3
   title: 'Sweeney Todd: The Demon Barber of Fleet Street'
-- release_year: 2007
-  score: 3
+- score: 3
   title: There will be blood
-- release_year: 2007
-  score: 3
+- score: 3
   title: Eastern Promises
 - english_title: Pan's Labyrinth
-  release_year: 2006
   score: 3
   title: El laberinto del fauno
-- release_year: 2006
-  score: 3
+- score: 3
   title: The Departed
-- release_year: 2005
-  score: 3
+- score: 3
   title: 'Serenity '
-- release_year: 2005
-  score: 3
+- score: 3
   title: Sin city
-- release_year: 2005
-  score: 3
+- score: 3
   title: 'Star Wars Episode III: Revenge of the Sith'
-- release_year: 2005
-  score: 3
+- score: 3
   title: Takeshis'
-- release_year: 2005
-  score: 3
+- score: 3
   title: V For Vendetta
-- release_year: 2004
-  score: 3
+- score: 3
   title: Eternal Sunshine of the Spotless Mind
-- release_year: 2004
-  score: 3
+- score: 3
   title: Shaun of the Dead
-- release_year: 2004
-  score: 3
+- score: 3
   title: The Phantom of the Opera
-- release_year: 2004
-  score: 3
+- score: 3
   title: Primer
-- release_year: 2004
-  score: 3
+- score: 3
   title: The Machinist
-- release_year: 2003
-  score: 3
+- score: 3
   title: Big fish
-- release_year: 2003
-  score: 3
+- score: 3
   title: 'The Lord of the Rings: The Return of the King'
 - english_title: Oldboy
-  release_year: 2003
   score: 3
   title: 올드보이
-- release_year: 2002
-  score: 3
+- score: 3
   title: Austin Powers in Goldmember
-- release_year: 2002
-  score: 3
+- score: 3
   title: Equilibrium
-- release_year: 2002
-  score: 3
+- score: 3
   title: Interstate 60
-- release_year: 2002
-  score: 3
+- score: 3
   title: The Gamers
-- release_year: 2002
-  score: 3
+- score: 3
   title: 'The Lord of the Rings: The Two Towers'
 - english_title: 'Hero '
-  release_year: 2002
   score: 3
   title: 英雄
-- release_year: 2001
-  score: 3
+- score: 3
   title: Jay and Silent Bob Strike Back
-- release_year: 2001
-  score: 3
+- score: 3
   title: K-PAX
-- release_year: 2001
-  score: 3
+- score: 3
   title: Mulholland Drive
-- release_year: 2001
-  score: 3
+- score: 3
   title: 'The Lord of the Rings: The Fellowship of the Ring'
-- release_year: 2001
-  score: 3
+- score: 3
   title: Даун Хаус
-- release_year: 2001
-  score: 3
+- score: 3
   title: Donnie Darko
-- release_year: 2000
-  score: 3
+- score: 3
   title: Snatch
-- release_year: 1999
-  score: 3
+- score: 3
   title: 'Austin Powers: The Spy Who Shagged Me'
-- release_year: 1999
-  score: 3
+- score: 3
   title: Being John Malkovich
-- release_year: 1999
-  score: 3
+- score: 3
   title: eXistenZ
-- release_year: 1999
-  score: 3
+- score: 3
   title: Fight Club
-- release_year: 1999
-  score: 3
+- score: 3
   title: SLC Punk
-- release_year: 1999
-  score: 3
+- score: 3
   title: The Matrix
-- release_year: 1998
-  score: 3
+- score: 3
   title: American History X
-- release_year: 1998
-  score: 3
+- score: 3
   title: Dark City
-- release_year: 1997
-  score: 3
+- score: 3
   title: 'Austin Powers: International Man of Mystery'
-- release_year: 1997
-  score: 3
+- score: 3
   title: Knockin' on Heaven's Door
-- release_year: 1997
-  score: 3
+- score: 3
   title: The Fifth element
-- release_year: 1996
-  score: 3
+- score: 3
   title: 'Star Trek: First Contact'
-- release_year: 1996
-  score: 3
+- score: 3
   title: Trainspotting
-- release_year: 1995
-  score: 3
+- score: 3
   title: Dead Man
-- release_year: 1995
-  score: 3
+- score: 3
   title: The Doom Generation
-- release_year: 1994
-  score: 3
+- score: 3
   title: Forrest Gump
 - english_title: The Professional
-  release_year: 1994
   score: 3
   title: Léon
-- release_year: 1994
-  score: 3
+- score: 3
   title: Pulp Fiction
-- release_year: 1994
-  score: 3
+- score: 3
   title: The Crow
-- release_year: 1993
-  score: 3
+- score: 3
   title: Groundhog Day
-- release_year: 1993
-  score: 3
+- score: 3
   title: Falling Down
-- release_year: 1992
-  score: 3
+- score: 3
   title: Braindead
-- release_year: 1992
-  score: 3
+- score: 3
   title: Reservoir Dogs
-- release_year: 1992
-  score: 3
+- score: 3
   title: Unforgiven
-- release_year: 1991
-  score: 3
+- score: 3
   title: The Silence of the Lambs
-- release_year: 1991
-  score: 3
+- score: 3
   title: 'Star Trek VI: The Undiscovered Country'
-- release_year: 1991
-  score: 3
+- score: 3
   title: Night on Earth
-- release_year: 1990
-  score: 3
+- score: 3
   title: Edward Scissorhands
-- release_year: 1990
-  score: 3
+- score: 3
   title: Rosencrantz & Guildenstern Are Dead
-- release_year: 1989
-  score: 3
+- score: 3
   title: 'Star Trek V: The Final Frontier'
-- release_year: 1988
-  score: 3
+- score: 3
   title: They live
-- release_year: 1988
-  score: 3
+- score: 3
   title: Город Зеро
-- release_year: 1988
-  score: 3
+- score: 3
   title: Who Framed Roger Rabbit
-- release_year: 1987
-  score: 3
+- score: 3
   title: Bad Taste
-- release_year: 1986
-  score: 3
+- score: 3
   title: 'Star Trek IV: The Voyage Home'
-- release_year: 1985
-  score: 3
+- score: 3
   title: Brazil
-- release_year: 1984
-  score: 3
+- score: 3
   title: 'Star Trek III: The Search for Spock'
-- release_year: 1982
-  score: 3
+- score: 3
   title: 'Pink Floyd: The Wall'
-- release_year: 1982
-  score: 3
+- score: 3
   title: Tron
-- release_year: 1982
-  score: 3
+- score: 3
   title: 'Star Trek II: The Wrath Of Khan'
-- release_year: 1980
-  score: 3
+- score: 3
   title: The Shining
-- release_year: 1979
-  score: 3
+- score: 3
   title: Alien
-- release_year: 1979
-  score: 3
+- score: 3
   title: 'Star Trek: The Motion Picture'
-- release_year: 1977
-  score: 3
+- score: 3
   title: 'Star Wars Episode IV: A New Hope'
-- release_year: 1975
-  score: 3
+- score: 3
   title: Monty Python And The Holy Grail
-- release_year: 1975
-  score: 3
+- score: 3
   title: One Flew Over the Cuckoo's Nest
-- release_year: 1968
-  score: 3
+- score: 3
   title: How To Irritate People
 - english_title: The Good the Bad and the Ugly
-  release_year: 1966
   score: 3
   title: ' Il buono, il brutto, il cattivo'
-- release_year: 1927
-  score: 3
+- score: 3
   title: Metropolis
-- release_year: 2010
-  score: 2
+- score: 2
   title: Inception
-- release_year: 2010
-  score: 2
+- score: 2
   title: Shutter Island
-- release_year: 2010
-  score: 2
+- score: 2
   title: Machete
-- release_year: 2010
-  score: 2
+- score: 2
   title: The Social Network
-- release_year: 2010
-  score: 2
+- score: 2
   title: I Saw the Devil
-- release_year: 2010
-  score: 2
+- score: 2
   title: 'Tron: Legacy'
-- release_year: 2010
-  score: 2
+- score: 2
   title: The King's Speech
-- release_year: 2010
-  score: 2
+- score: 2
   title: 'Biutiful '
-- release_year: 2009
-  score: 2
+- score: 2
   title: The Imaginarium of Doctor Parnassus
-- release_year: 2009
-  score: 2
+- score: 2
   title: District 9
-- release_year: 2009
-  score: 2
+- score: 2
   title: Frequently Asked Questions About Time Travel
-- release_year: 2009
-  score: 2
+- score: 2
   title: Moon
-- release_year: 2009
-  score: 2
+- score: 2
   title: Star Trek
-- release_year: 2009
-  score: 2
+- score: 2
   title: Я
-- release_year: 2008
-  score: 2
+- score: 2
   title: Kung Fu Panda
-- release_year: 2008
-  score: 2
+- score: 2
   title: The Curious Case of Benjamin Button
-- release_year: 2008
-  score: 2
+- score: 2
   title: The Dark Knight
-- release_year: 2008
-  score: 2
+- score: 2
   title: The Onion Movie
-- release_year: 2008
-  score: 2
+- score: 2
   title: Zack and Miri Make a Porno
-- release_year: 2008
-  score: 2
+- score: 2
   title: Бумажный солдат
-- release_year: 2008
-  score: 2
+- score: 2
   title: Стиляги
 - english_title: Tokyo Gore Police
-  release_year: 2008
   score: 2
   title: 東京残酷警察
 - english_title: Ip Man
-  release_year: 2008
   score: 2
   title: 葉問
-- release_year: 2007
-  score: 2
+- score: 2
   title: '300'
-- release_year: 2007
-  score: 2
+- score: 2
   title: '1408'
-- release_year: 2007
-  score: 2
+- score: 2
   title: Across the universe
-- release_year: 2007
-  score: 2
+- score: 2
   title: Enchanted
-- release_year: 2007
-  score: 2
+- score: 2
   title: Hot Fuzz
-- release_year: 2007
-  score: 2
+- score: 2
   title: 'Resident Evil: Extinction'
-- release_year: 2007
-  score: 2
+- score: 2
   title: The Mist
-- release_year: 2007
-  score: 2
+- score: 2
   title: Shoot 'Em Up
 - english_title: 'Perfume: The Story of a Murderer'
-  release_year: 2006
   score: 2
   title: Das Parfüm – Die Geschichte eines Mörders
-- release_year: 2006
-  score: 2
+- score: 2
   title: Fearless
-- release_year: 2006
-  score: 2
+- score: 2
   title: Lucky Number Slevin
-- release_year: 2006
-  score: 2
+- score: 2
   title: The Illusionist
-- release_year: 2006
-  score: 2
+- score: 2
   title: The Prestige
-- release_year: 2006
-  score: 2
+- score: 2
   title: Гадкие лебеди
-- release_year: 2006
-  score: 2
+- score: 2
   title: Изображая жертву
-- release_year: 2005
-  score: 2
+- score: 2
   title: Charlie and the Chocolate Factory
-- release_year: 2005
-  score: 2
+- score: 2
   title: Corpse bride
-- release_year: 2005
-  score: 2
+- score: 2
   title: Unleashed
-- release_year: 2005
-  score: 2
+- score: 2
   title: Tideland
 - english_title: 달콤한 인생
-  release_year: 2005
   score: 2
   title: Bittersweet Life
-- release_year: 2004
-  score: 2
+- score: 2
   title: 'Kill Bill: Vol. 2'
-- release_year: 2004
-  score: 2
+- score: 2
   title: 'Resident Evil: Apocalypse'
 - english_title: Kung Fu Hustle
-  release_year: 2004
   score: 2
   title: 功夫
-- release_year: 2004
-  score: 2
+- score: 2
   title: Paranoia 1.0
-- release_year: 2003
-  score: 2
+- score: 2
   title: The Texas Chainsaw Massacre
-- release_year: 2003
-  score: 2
+- score: 2
   title: Animatrix
-- release_year: 2003
-  score: 2
+- score: 2
   title: 'Kill Bill: Vol. 1'
-- release_year: 2003
-  score: 2
+- score: 2
   title: School of rock
-- release_year: 2003
-  score: 2
+- score: 2
   title: 'The Matrix: Reloaded'
-- release_year: 2003
-  score: 2
+- score: 2
   title: 'The Matrix: Revolutions'
-- release_year: 2002
-  score: 2
+- score: 2
   title: Catch Me If You Can
-- release_year: 2002
-  score: 2
+- score: 2
   title: Lilo And Stich
-- release_year: 2002
-  score: 2
+- score: 2
   title: Men in Black II
-- release_year: 2002
-  score: 2
+- score: 2
   title: Resident Evil
-- release_year: 2002
-  score: 2
+- score: 2
   title: 'Star Wars Episode II: Attack of the Clones'
-- release_year: 2002
-  score: 2
+- score: 2
   title: Star Trek Nemesis
-- release_year: 2001
-  score: 2
+- score: 2
   title: A beautiful mind
-- release_year: 2000
-  score: 2
+- score: 2
   title: American Psycho
-- release_year: 2000
-  score: 2
+- score: 2
   title: Battle Royale
-- release_year: 2000
-  score: 2
+- score: 2
   title: Memento
-- release_year: 2000
-  score: 2
+- score: 2
   title: Unbreakable
-- release_year: 1999
-  score: 2
+- score: 2
   title: Man on the Moon
-- release_year: 1999
-  score: 2
+- score: 2
   title: American beauty
-- release_year: 1999
-  score: 2
+- score: 2
   title: Bicentennial Man
-- release_year: 1999
-  score: 2
+- score: 2
   title: Dogma
-- release_year: 1999
-  score: 2
+- score: 2
   title: Magnolia
-- release_year: 1999
-  score: 2
+- score: 2
   title: The Boondock Saints
-- release_year: 1999
-  score: 2
+- score: 2
   title: Wild wild west
-- release_year: 1998
-  score: 2
+- score: 2
   title: Blade
-- release_year: 1998
-  score: 2
+- score: 2
   title: Fear and Loathing in Las Vegas
-- release_year: 1998
-  score: 2
+- score: 2
   title: Lock, Stock and Two Smoking Barrels
 - english_title: Run Lola Run
-  release_year: 1998
   score: 2
   title: Lola rennt
-- release_year: 1998
-  score: 2
+- score: 2
   title: Truman show
-- release_year: 1998
-  score: 2
+- score: 2
   title: What Dreams May Come
-- release_year: 1998
-  score: 2
+- score: 2
   title: 'Star Trek: Insurrection'
-- release_year: 1997
-  score: 2
+- score: 2
   title: Good Will Hunting
-- release_year: 1997
-  score: 2
+- score: 2
   title: Men in black
-- release_year: 1997
-  score: 2
+- score: 2
   title: The Devil's Advocate
-- release_year: 1997
-  score: 2
+- score: 2
   title: Брат
-- release_year: 1996
-  score: 2
+- score: 2
   title: Mars attacks!
-- release_year: 1996
-  score: 2
+- score: 2
   title: Shine
-- release_year: 1995
-  score: 2
+- score: 2
   title: Desperado
-- release_year: 1995
-  score: 2
+- score: 2
   title: Die Hard With A Vengeance
-- release_year: 1995
-  score: 2
+- score: 2
   title: Don Juan DeMarco
-- release_year: 1995
-  score: 2
+- score: 2
   title: Johnny Mnemonic
-- release_year: 1995
-  score: 2
+- score: 2
   title: Seven
-- release_year: 1995
-  score: 2
+- score: 2
   title: Особенности национальной охоты
-- release_year: 1995
-  score: 2
+- score: 2
   title: 12 Monkeys
-- release_year: 1994
-  score: 2
+- score: 2
   title: Stargate
-- release_year: 1993
-  score: 2
+- score: 2
   title: Nightmare before christmas
-- release_year: 1992
-  score: 2
+- score: 2
   title: Scent of a Woman
-- release_year: 1991
-  score: 2
+- score: 2
   title: 'Terminator 2: Judgment Day'
-- release_year: 1989
-  score: 2
+- score: 2
   title: Dead poets society
-- release_year: 1988
-  score: 2
+- score: 2
   title: Die hard
-- release_year: 1988
-  score: 2
+- score: 2
   title: Return of the Killer Tomatoes
-- release_year: 1987
-  score: 2
+- score: 2
   title: Full Metal Jacket
-- release_year: 1986
-  score: 2
+- score: 2
   title: Crossroads
-- release_year: 1984
-  score: 2
+- score: 2
   title: The Toxic Avenger
-- release_year: 1983
-  score: 2
+- score: 2
   title: The Hunger
-- release_year: 1980
-  score: 2
+- score: 2
   title: 'Star Wars Episode V: The Empire Strikes Back'
-- release_year: 1979
-  score: 2
+- score: 2
   title: Hair
-- release_year: 1972
-  score: 2
+- score: 2
   title: A Clockwork Orange
-- release_year: 1960
-  score: 2
+- score: 2
   title: Psycho
-- release_year: 2010
-  score: 1
+- score: 1
   title: Kick-ass
-- release_year: 2010
-  score: 1
+- score: 1
   title: 'Superman/Batman: Apocalypse'
-- release_year: 2010
-  score: 1
+- score: 1
   title: The Sorcerer's Apprentice
-- release_year: 2010
-  score: 1
+- score: 1
   title: The Expendables
-- release_year: 2009
-  score: 1
+- score: 1
   title: Law Abiding Citizen
-- release_year: 2008
-  score: 1
+- score: 1
   title: Slumdog Millionaire
-- release_year: 2008
-  score: 1
+- score: 1
   title: WALL-E
-- release_year: 2008
-  score: 1
+- score: 1
   title: Дзифт
 - english_title: Khottabych
-  release_year: 2006
   score: 1
   title: '}{0ТТ@БЬ)Ч'
-- release_year: 2006
-  score: 1
+- score: 1
   title: Crank
-- release_year: 2006
-  score: 1
+- score: 1
   title: The Fountain
-- release_year: 2005
-  score: 1
+- score: 1
   title: Constantine
-- release_year: 2005
-  score: 1
+- score: 1
   title: Lord of War
-- release_year: 2005
-  score: 1
+- score: 1
   title: Thank You for Smoking
-- release_year: 2005
-  score: 1
+- score: 1
   title: The Hitchhiker's Guide to the Galaxy
-- release_year: 2004
-  score: 1
+- score: 1
   title: I robot
-- release_year: 2003
-  score: 1
+- score: 1
   title: Bruce Almighty
-- release_year: 2003
-  score: 1
+- score: 1
   title: Bulletproof monk
-- release_year: 2003
-  score: 1
+- score: 1
   title: Paycheck
-- release_year: 2001
-  score: 1
+- score: 1
   title: Planet of the Apes
-- release_year: 2000
-  score: 1
+- score: 1
   title: Scary Movie
-- release_year: 1999
-  score: 1
+- score: 1
   title: Analyze This
-- release_year: 1998
-  score: 1
+- score: 1
   title: Enemy of the State
-- release_year: 1998
-  score: 1
+- score: 1
   title: Sleepy Hollow
-- release_year: 1997
-  score: 1
+- score: 1
   title: Face/Off
-- release_year: 1996
-  score: 1
+- score: 1
   title: The Cable Guy
-- release_year: 1995
-  score: 1
+- score: 1
   title: Judge Dredd
-- release_year: 1995
-  score: 1
+- score: 1
   title: Nick of Time
-- release_year: 1995
-  score: 1
+- score: 1
   title: The Usual Suspects
-- release_year: 1994
-  score: 1
+- score: 1
   title: 'Interview with the Vampire: The Vampire Chronicles'
-- release_year: 1994
-  score: 1
+- score: 1
   title: The Mask
-- release_year: 1993
-  score: 1
+- score: 1
   title: Demolition man
-- release_year: 1991
-  score: 1
+- score: 1
   title: What about Bob?
-- release_year: 1988
-  score: 1
+- score: 1
   title: Beetlejuice
-- release_year: 1988
-  score: 1
+- score: 1
   title: Elvira, Mistress of the Dark
-- release_year: 1987
-  score: 1
+- score: 1
   title: Predator
-- release_year: 1985
-  score: 1
+- score: 1
   title: Back to the Future
-- release_year: 1984
-  score: 1
+- score: 1
   title: Ghostbusters
-- release_year: 2010
-  score: 2
+- score: 2
   title: True grit
-- release_year: 2011
-  score: 2
+- score: 2
   title: Sucker punch
-- release_year: 2008
-  score: 2
+- score: 2
   title: You Don't Mess with the Zohan
-- release_year: 2009
-  score: 2
+- score: 2
   title: Zombieland
-- release_year: 2003
-  score: 1
+- score: 1
   title: The Dreamers
-- release_year: 1972
-  score: 2
+- score: 2
   title: The Godfather
 - english_title: The Holy Mountain
-  release_year: 1973
   score: 3
   title: La Montaña Sagrada
-- release_year: 2008
-  score: 2
+- score: 2
   title: The Colour of Magic
 - english_title: The Experiment
-  release_year: 2001
   score: 2
   title: Das Experiment
 - english_title: Spirited Away
-  release_year: 2001
   score: 2
   title: 千と千尋の神隠し
-- release_year: 1999
-  score: 1
+- score: 1
   title: American Pie
-- release_year: 1973
-  score: 3
+- score: 3
   title: Земля Санникова
 - english_title: The Man from Nowhere
-  release_year: 2010
   score: 2
   title: 아저씨
-- release_year: 2011
-  score: 2
+- score: 2
   title: Midnight in Paris
-- release_year: 2010
-  score: 2
+- score: 2
   title: Going Postal
-- release_year: 2003
-  score: 1
+- score: 1
   title: Anything Else
-- release_year: 2009
-  score: 3
+- score: 3
   title: Whatever Works
-- release_year: 2010
-  score: 2
+- score: 2
   title: 'Ultramarines: A Warhammer 40,000 Movie'
-- release_year: 1991
-  score: 1
+- score: 1
   title: Delicatessen
-- release_year: 2011
-  score: 1
+- score: 1
   title: The Girl with the Dragon Tattoo
-- release_year: 2007
-  score: 1
+- score: 1
   title: Я остаюсь
-- release_year: 2011
-  score: 1
+- score: 1
   title: Anonymous
 - english_title: Micmacs
-  release_year: 2009
   score: 2
   title: MicMacs à tire-larigot
-- release_year: 1998
-  score: 2
+- score: 2
   title: The Big Lebowski
-- release_year: 2005
-  score: 2
+- score: 2
   title: Stay
-- release_year: 2009
-  score: 1
+- score: 1
   title: Lo
-- release_year: 2011
-  score: 2
+- score: 2
   title: 'Sherlock Holmes: A Game of Shadows'
-- release_year: 2001
-  score: 3
+- score: 3
   title: Le Fabuleux Destin d'Amélie Poulain
-- release_year: 2012
-  score: 1
+- score: 1
   title: The Avengers
 - english_title: The Seventh Seal
-  release_year: 1957
   score: 2
   title: Det sjunde inseglet
-- release_year: 2012
-  score: 2
+- score: 2
   title: Iron Sky
-- release_year: 2011
-  score: 3
+- score: 3
   title: The Guard
-- release_year: 2012
-  score: 2
+- score: 2
   title: The Dark Knight Rises
-- release_year: 2012
-  score: 3
+- score: 3
   title: The Dictator
-- release_year: 2011
-  score: 2
+- score: 2
   title: Melancholia
-- release_year: 1987
-  score: 2
+- score: 2
   title: The Princess Bride
-- release_year: 1999
-  score: 3
+- score: 3
   title: Зелёный слоник
-- release_year: 2004
-  score: 3
+- score: 3
   title: 4
-- release_year: 2013
-  score: 1
+- score: 1
   title: Star Trek Into Darkness
-- release_year: 2011
-  score: 1
+- score: 1
   title: God Bless America
-- release_year: 1990
-  score: 2
+- score: 2
   title: Awakenings
-- release_year: 2013
-  score: 1
+- score: 1
   title: The Great Gatsby
-- release_year: 1997
-  score: 2
+- score: 2
   title: Men in Black
-- release_year: 2002
-  score: 2
+- score: 2
   title: Secretary
-- release_year: 2013
-  score: 3
+- score: 3
   title: Filth
-- release_year: 2014
-  score: 2
+- score: 2
   title: Nymphomaniac
-- release_year: 1964
-  score: 3
+- score: 3
   title: Dr. Strangelove
