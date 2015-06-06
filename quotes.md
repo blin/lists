@@ -1026,3 +1026,33 @@ Of course, people didn't need differential equations to notice this before.
   * ~The joy of x
 * I can calculate the motions of heavenly bodies, but not the madness of people.
   * ~Isaac Newton
+* To justify the conclusion that ∃xP(x) is true it is only necessary to verify that P(x) comes out true when x is assigned some particular value. How you thought of that value is your own business, and not part of the justification of the conclusion.
+  * ~How to prove it
+* The search for Hitler has apprehended not one coherent, consensus image of Hitler but rather many different Hitlers, competing Hitlers, conflicting embodiments of competing visions. Hitlers who might not recognize each other well enough to say 'Heil' if they came face to face in Hell.
+  * ~Explaining Hitler
+* What is required for many of us, paradoxical though it may sound, is the courage to tolerate happiness without self-sabotage.
+  * ~The six pillars of self-esteem.
+* Self-concept is destiny. Or, more precisely, it tends to be.
+  * ~The six pillars of self-esteem.
+* The joy is in being who you are, not in being better than someone else.
+  * ~The six pillars of self-esteem.
+* I would have had to face the fact that loneliness was driving me more than admiration.
+  * ~The six pillars of self-esteem.
+* That one wakes up for a time is no guarantee that one will remain awake.
+  * ~The six pillars of self-esteem.
+* For many people, self-surrender and self-sacrifice are far easier. They do not require the integrity and responsibility that intelligent selfishness requires.
+  * ~The six pillars of self-esteem.
+* One of the most positive aspects of the women's movement is its insistence that women think for themselves about who they are and what they want. But men need to learn this kind of independent thinking as much as women do.
+  * ~The six pillars of self-esteem.
+* Physical reality tends to be far more "reliable" than most human beings. Consequently, children who feel ineffective in the human realm often turn for a sense of power to nature or machinery or engineering or physics or mathematics, all of which offer a degree of consistency and "sanity" rarely found among human beings.
+  * ~The six pillars of self-esteem.
+* Genuine self-esteem is what we feel about ourselves when everything is not all right.
+  * ~The six pillars of self-esteem.
+* The painting showed a hairless, oppressed creature with a head like an inverted pear, its hands clapped in horror to its ears, its mouth open in a vast, soundless scream. Twisted ripples of the creature's torment, echoes of its cry, flooded out into the air surrounding it; the man or woman, whichever it was, had become contained by its own howl. It had covered its ears against its own sound. The creature stood on a bridge and no one else was present; the creature screamed in isolation. Cut off by — or despite — its outcry.
+  * ~Do androids dream of electric sheep?
+* Moreover, sentences like "In order for that to happen, you know it ain't no black God that's doin' that bullshit" show that Larry's speech uses the full inventory of grammatical paraphernalia that computer scientists struggle unsuccessfully to duplicate (relative clauses, complement structures, clause subordination, and so on), not to mention some fairly sophisticated theological argumentation.
+  * ~The language instinct
+* Colorless green ideas sleep furiously.
+  * ~Noam Chomsky
+* Certainty is, after all, just an emotion.
+  * ~Ben Treynor Sloss
