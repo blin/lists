@@ -421,3 +421,6 @@
 * Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman
   * author: Dave Hoover, Adewale Oshineye
   * score: 3
+* The Long Tail: How Endless Choice is Creating Unlimited Demand
+  * author: Chris Anderson
+  * score: 2
