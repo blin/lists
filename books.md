@@ -424,3 +424,30 @@
 * The Long Tail: How Endless Choice is Creating Unlimited Demand
   * author: Chris Anderson
   * score: 2
+* Effective C++
+  * author: Scott Meyers
+  * score: 1
+* Mort
+  * author: Terry Pratchett
+  * score: 2
+* Crucial Conversations: Tools for Talking When Stakes Are High
+  * author: Joseph Grenny, Kerry Patterson, and Ron McMillan
+  * score: 1
+* Life's Little Instruction Book.
+  * author: H. Jackson Brown, Jr
+  * score: 2
+* The Lessons of History
+  * author: Will Durant and Ariel Durant
+  * score: 1
+* Invisible Cities
+  * author: Italo Calvino
+  * score: 2
+* Burning the Page
+  * author: Jason Merkoski
+  * score: 1
+* The elements of style
+  * author: E. B. White and William Strunk, Jr.
+  * score: 3
+* And Then I Thought I Was a Fish
+  * author: Peter Welch
+  * score: 1
